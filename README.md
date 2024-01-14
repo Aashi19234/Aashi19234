@@ -9,7 +9,7 @@
   <a href="https://leetcode.com/aasthaj375/">
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
-  <a href="mailto:[aasthaj375@gmail.com]">
+  <a href="mailto:aasthaj375@gmail.com">
     <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/>
   </a>
   

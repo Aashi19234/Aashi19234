@@ -23,7 +23,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 -  :telescope: Currently I am learning Backend Development.
 
 - :seedling: Exploring open source opportunities.
